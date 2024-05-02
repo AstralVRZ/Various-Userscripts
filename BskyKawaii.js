@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Bsky kawii
+// @name         Bsky kawaii
 // @namespace    https://astralvrz.github.io/
 // @version      2024-05-02
-// @description  Auto Bluesky kawii mode 🪷🌸
+// @description  Auto Bluesky kawaii mode 🪷🌸
 // @author       Astral
 // @match        https://bsky.app/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bsky.app
